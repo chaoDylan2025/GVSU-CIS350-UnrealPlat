@@ -10,7 +10,7 @@ This section is divided into functional and non-functional requirements that hav
 
 ### Player movement 
 
-1. The system shall have a character that can jump 3 blocks and have an ability that allows the character to jump an additional 3 blocks mid air.
+1. The system shall have a character that can jump 3 blocks and have an ability that allows the character to jump an additional 3 blocks midair.
 2. The system shall have the stamina bar regenerate after 5-10 seconds when player uses up the stamina bar.
 3. The player shall dash when left shift is pressed.
 4. The player shall dash 4 blocks forward when dashing. 
@@ -44,7 +44,7 @@ This section is divided into functional and non-functional requirements that hav
 
 ### Player feature 
 
-21. The player shall be able to move mid air.
+21. The player shall be able to move midair.
 22. The player shall have animations play correctly that reflect their current action.
 23. The player shall not clip into walls when they dash.
 24. The player character shall fit in the environment theme.
@@ -62,7 +62,7 @@ This section is divided into functional and non-functional requirements that hav
 
 # Software Artifacts
 
-This section shall provide links to all of the artifacts that we have developed for this project.
+This section shall provide links to all the artifacts that we have developed for this project.
 
 * [Use case diagram for abilities](../artifacts/use_case_diagrams/Abilities-Usecase-Diagram.pdf)
 * [Use case diagram for combat](../artifacts/use_case_diagrams/Combat-Usecase-Diagram.pdf)
